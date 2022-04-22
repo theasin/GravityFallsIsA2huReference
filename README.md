@@ -11,3 +11,5 @@
 | One of protagonists, Marisa, uses her signature weapon (Master Spark) whenever possible, which causes trouble and collateral damage, only sometimes working well |  One of protagonists, Mabel, uses her signature weapon (Grappling hook) whenever possible, which causes trouble and collateral damage, only sometimes working well |
 
 ## Missed something? Create a new <a href="https://github.com/theasin/GravityFallsIsA2huReference/issues/new">issue</a>.
+Maybe will release the side-by-side comparison as a bash script lol
+##### skill issue lol
